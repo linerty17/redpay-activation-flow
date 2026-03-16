@@ -44,10 +44,10 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "6608645589",
-    accountName: "MONALE JUDITH EREDUM",
-    bank: "Moniepoint MFB",
-    amount: "14,900",
+    accountNumber: "1000121109",
+    accountName: "CHINEMEREM LIBERTY SUNDAY",
+    bank: "Assets Microfinance Bank",
+    amount: "15,900",
   };
 
   const copyToClipboard = (text: string, label: string) => {
