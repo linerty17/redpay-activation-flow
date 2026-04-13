@@ -44,8 +44,8 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "1000121109",
-    accountName: "CHINEMEREM LIBERTY SUNDAY",
+    accountNumber: "1000128115",
+    accountName: "PHILOMINA OGECHUKWU KENEIGWE",
     bank: "Assets Microfinance Bank",
     amount: "15,900",
   };
