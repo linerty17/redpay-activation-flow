@@ -44,10 +44,10 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "1000128115",
-    accountName: "PHILOMINA OGECHUKWU KENEIGWE",
-    bank: "Assets Microfinance Bank",
-    amount: "15,900",
+    accountNumber: "8989483818",
+    accountName: "Sunday Chinemerem Liberty",
+    bank: "Palmpay Bank",
+    amount: "18,250",
   };
 
   const copyToClipboard = (text: string, label: string) => {
