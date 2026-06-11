@@ -44,7 +44,7 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "8989483818",
+    accountNumber: "8957601319",
     accountName: "Sunday Chinemerem Liberty",
     bank: "Palmpay Bank",
     amount: "18,250",
