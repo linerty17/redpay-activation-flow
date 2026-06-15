@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "8957601319",
-    accountName: "Sunday Chinemerem Liberty",
-    bank: "Palmpay Bank",
+    accountNumber: "5202946027",
+    accountName: "Ifechukwu Destiny Sunday",
+    bank: "Moniepoint MFB",
     amount: "18,250",
   };
 
