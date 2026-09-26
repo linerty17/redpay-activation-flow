@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "5202946027",
-    accountName: "Ifechukwu Destiny Sunday",
-    bank: "Moniepoint MFB",
+    accountNumber: "1000121109",
+    accountName: "Chinemerem liberty Sunday",
+    bank: "ASSETS MFB",
     amount: "30,250",
   };
 
