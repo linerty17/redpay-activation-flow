@@ -47,7 +47,7 @@ const VerificationDetails = () => {
     accountNumber: "5202946027",
     accountName: "Ifechukwu Destiny Sunday",
     bank: "Moniepoint MFB",
-    amount: "18,250",
+    amount: "30,250",
   };
 
   const copyToClipboard = (text: string, label: string) => {
